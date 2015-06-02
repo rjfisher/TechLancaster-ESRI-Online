@@ -1,10 +1,6 @@
 
 # ESRI Online
 
-From the terminal, pop in:
+### Powerful Cloud Based GIS
 
-  ```yo reveal:slide "Slide Title"```
-
-Available options:
-
- ```--markdown --attributes --notes```
+Created by [Rob Fisher](http://www.robfisher.us) / [@bler](http:/twitter.com/bler)
