@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "ESRI Online",
+    "packageVersion": "0.0.1",
+    "revealTheme": "night",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "zombiebaron",
+    "githubRepository": "TechLancaster-ESRI-Online"
+  }
+}

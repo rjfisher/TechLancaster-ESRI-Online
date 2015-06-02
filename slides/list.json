@@ -1,0 +1,50 @@
+[
+    {
+        "filename": "index.md",
+        "attr": {
+            "data-background": "http://media3.giphy.com/media/oNJHcg0vLm6eA/giphy.gif"
+        }
+    },
+    {
+        "filename": "what-is-esri.md",
+        "attr": {
+            "data-background": "http://media.giphy.com/media/xeRl26ABLSvok/giphy.gif"
+        }
+    },
+    {
+        "filename": "the-esri-platform.md",
+        "attr": {
+            "data-background": "http://media.giphy.com/media/rxayBqtlXkpRm/giphy.gif"
+        }
+    },
+    {
+        "filename": "what-is-esri-online.md",
+        "attr": {
+            "data-background": "#000"
+        }
+    },
+    {
+        "filename": "drinking-the-kool-aid.md",
+        "attr": {
+            "data-background": "http://cdn.digitaloperative.com/wp-content/uploads/2012/11/koolaid.jpg"
+        }
+    },
+    {
+        "filename": "demo-time.md",
+        "attr": {
+            "data-background": "http://i39.photobucket.com/albums/e169/Pipoca813/static.gif"
+        }
+    },
+    {
+        "filename": "questions.md",
+        "attr": {
+            "data-background": "http://i.imgur.com/DesR8Ux.gif"
+        }
+    },
+    {
+        "filename": "thanks.md",
+        "attr": {
+            "data-background": "http://media.giphy.com/media/fr5TzUeMCYuY/giphy.gif"
+        }
+    }
+]
